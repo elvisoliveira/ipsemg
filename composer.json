@@ -1,0 +1,15 @@
+{
+    "name": "elvisoliveira/ipsemg",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "pear/config_lite": "^0.2.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Elvis Oliveira",
+            "email": "elvis.olv@gmail.com"
+        }
+    ]
+}

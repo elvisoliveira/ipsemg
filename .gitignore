@@ -1,0 +1,7 @@
+### Local ###
+ipsemg.ini
+ipsemg.log
+
+### Composer ###
+composer.phar
+/vendor/
